@@ -94,4 +94,8 @@ Replace placeholders like `your-username`, `your-project`, and other configurati
 
 Please make sure to tailor the README to fit your actual project structure, features, and any additional details you'd like to provide to users and contributors.
 
+<<<<<<< HEAD
 Remember that a good README provides clear instructions for setup, usage, and contributions, helping users and developers understand your project quickly.
+=======
+Remember that a good README provides clear instructions for setup, usage, and contributions, helping users and developers understand your project quickly.
+>>>>>>> master
