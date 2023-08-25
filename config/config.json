@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "nuelseyiadedoyin",
-    "password": null,
-    "database": "zonicme_vas",
-    "host": "127.0.0.1",
+    "username": "njwpkuzl",
+    "password": "UOAPlMCDU0eXDrBhrya4ndJK0iFPJECD",
+    "database": "njwpkuzl",
+    "host": "batyr.db.elephantsql.com",
     "dialect": "postgres"
   },
   "test": {
@@ -17,6 +17,13 @@
     "username": "root",
     "password": null,
     "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "developmenters": {
+    "username": "nuelseyiadedoyin",
+    "password": null,
+    "database": "zonicme_vas",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
