@@ -17,7 +17,7 @@ dotenv.config()
 const app = express()
 
 // Define your whitelist of allowed origins
-const whitelist = ['http://localhost:8081']
+const whitelist = ['http://localhost:4000']
 
 // Configure CORS options
 const corsOptions = {
