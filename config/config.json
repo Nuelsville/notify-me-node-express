@@ -1,5 +1,5 @@
 {
-  "development": {
+  "developmentdd": {
     "username": "njwpkuzl",
     "password": "UOAPlMCDU0eXDrBhrya4ndJK0iFPJECD",
     "database": "njwpkuzl",
@@ -20,7 +20,7 @@
     "host": "batyr.db.elephantsql.com",
     "dialect": "postgres"
   },
-  "developmenters": {
+  "development": {
     "username": "nuelseyiadedoyin",
     "password": null,
     "database": "zonicme_vas",

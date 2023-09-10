@@ -40,7 +40,8 @@ app.use(express.json())
 app.use('/uploads', express.static('uploads'))
 
 // Enable CORS with whitelist options
-app.use(cors(corsOptions))
+// app.use(cors(corsOptions))
+app.use(cors())
 
 // Use morgan for logging HTTP requests
 app.use(morgan('dev'))
